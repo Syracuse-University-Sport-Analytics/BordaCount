@@ -1,1 +1,0 @@
-0.991902834008097 % finished and found 7 independence violations and 1 cycles out of 408
